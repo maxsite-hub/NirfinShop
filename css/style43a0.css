@@ -181,6 +181,10 @@ h2::after {
   overflow: hidden;
 }
 
+.clearfix {
+  padding: 0 30px;
+}
+
 .menu-left li,
 .menu-right li {
   margin-top: 40px;
